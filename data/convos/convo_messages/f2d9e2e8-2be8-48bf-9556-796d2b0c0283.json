@@ -1,0 +1,90 @@
+[
+  {
+    "id": "msg-005-001",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "therapist",
+    "text": "Welcome. I'm David. I appreciate you taking this step. What brings you here today?",
+    "created_at": "2024-11-05T11:30:00.000Z"
+  },
+  {
+    "id": "msg-005-002",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "client",
+    "text": "I've been really overwhelmed with work and home life. I feel like I'm dropping balls everywhere and I don't know how to manage it all.",
+    "created_at": "2024-11-05T11:30:30.000Z"
+  },
+  {
+    "id": "msg-005-003",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "therapist",
+    "text": "That sounds exhausting. Many people feel this way when they're trying to do too much. Let's start by getting clear on your priorities. Can you list your top 3 responsibilities right now?",
+    "created_at": "2024-11-05T11:31:00.000Z"
+  },
+  {
+    "id": "msg-005-004",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "client",
+    "text": "Work deadlines, taking care of my kids, and keeping the house clean.",
+    "created_at": "2024-11-05T11:31:45.000Z"
+  },
+  {
+    "id": "msg-005-005",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "therapist",
+    "text": "Good awareness. Now, let's think about the 80/20 rule - 80% of your results come from 20% of your efforts. Which of these three gives you the most return on your energy investment?",
+    "created_at": "2024-11-05T11:32:15.000Z"
+  },
+  {
+    "id": "msg-005-006",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "client",
+    "text": "Probably work - that's what pays the bills. But I feel guilty when I neglect the kids or the house.",
+    "created_at": "2024-11-05T11:33:00.000Z"
+  },
+  {
+    "id": "msg-005-007",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "therapist",
+    "text": "That guilt is common but unhelpful. Let's reframe this: 'Good enough' is good enough for most things. Your kids need your presence more than a perfectly clean house. What would happen if you lowered your standards on cleaning by 20%?",
+    "created_at": "2024-11-05T11:33:30.000Z"
+  },
+  {
+    "id": "msg-005-008",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "client",
+    "text": "I'd have more time for the kids and myself. That actually sounds doable.",
+    "created_at": "2024-11-05T11:34:15.000Z"
+  },
+  {
+    "id": "msg-005-009",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "therapist",
+    "text": "Excellent insight. Let's build a simple time-blocking system. Try this: 7-9 AM work focus, 5-7 PM family time, and protect one hour daily for yourself. What time would work best for your personal hour?",
+    "created_at": "2024-11-05T11:34:45.000Z"
+  },
+  {
+    "id": "msg-005-010",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "client",
+    "text": "Maybe 8-9 PM after the kids are in bed.",
+    "created_at": "2024-11-05T11:35:30.000Z"
+  },
+  {
+    "id": "msg-005-011",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+    "sender": "therapist",
+    "text": "Perfect. Start there. Small changes compound into big results. Track how you feel at the end of the week and we'll adjust from there.",
+    "created_at": "2024-11-05T11:36:00.000Z"
+  }
+]

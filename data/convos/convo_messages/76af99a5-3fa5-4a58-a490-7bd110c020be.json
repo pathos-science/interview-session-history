@@ -1,0 +1,90 @@
+[
+  {
+    "id": "msg-009-001",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "therapist",
+    "text": "Hi, I'm Jordan. I work with a lot of high-achievers who are great at their jobs but struggle with balance. What brings you here?",
+    "created_at": "2024-11-09T14:55:00.000Z"
+  },
+  {
+    "id": "msg-009-002",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "client",
+    "text": "I'm successful at work but I'm burned out. I work 80 hours a week and I can't stop. My relationships are suffering.",
+    "created_at": "2024-11-09T14:55:45.000Z"
+  },
+  {
+    "id": "msg-009-003",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "therapist",
+    "text": "The 'can't stop' part is key - it's not just long hours, it's compulsive drive. High-achievers often use success as a shield against vulnerability. What's the fear beneath the workaholism?",
+    "created_at": "2024-11-09T14:56:15.000Z"
+  },
+  {
+    "id": "msg-009-004",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "client",
+    "text": "That if I slow down, I'll fail. Or that I'll realize I'm not as good as people think.",
+    "created_at": "2024-11-09T14:57:00.000Z"
+  },
+  {
+    "id": "msg-009-005",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "therapist",
+    "text": "That's the imposter syndrome trap. But here's the data: sustained high performance requires recovery. Elite athletes don't train 24/7 - they rest. Your brain isn't different. What's one relationship that's suffering most?",
+    "created_at": "2024-11-09T14:57:30.000Z"
+  },
+  {
+    "id": "msg-009-006",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "client",
+    "text": "My partner. I keep canceling plans and I'm always distracted when we're together.",
+    "created_at": "2024-11-09T14:58:15.000Z"
+  },
+  {
+    "id": "msg-009-007",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "therapist",
+    "text": "Let's use acceptance and commitment therapy: Accept that you have drive (it's a strength), but commit to values over compulsions. What's more important - being the perfect executive or being a present partner? Let's design an experiment: Try leaving work at 6 PM three nights this week, no exceptions.",
+    "created_at": "2024-11-09T14:58:45.000Z"
+  },
+  {
+    "id": "msg-009-008",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "client",
+    "text": "That sounds terrifying. What if something goes wrong at work?",
+    "created_at": "2024-11-09T14:59:30.000Z"
+  },
+  {
+    "id": "msg-009-009",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "therapist",
+    "text": "That's the fear talking. But data shows: Leaders who model balance are more respected, not less. And you'll be more creative after rest. Start small - just three nights. Track what happens to your work quality and relationships.",
+    "created_at": "2024-11-09T15:00:00.000Z"
+  },
+  {
+    "id": "msg-009-010",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "client",
+    "text": "Okay, I'll try it. But I might need to check my email once.",
+    "created_at": "2024-11-09T15:00:45.000Z"
+  },
+  {
+    "id": "msg-009-011",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+    "sender": "therapist",
+    "text": "One check = all the way back in. Try cold turkey. You'll be amazed what shows up when you give yourself permission to be fully present. Report back on the results.",
+    "created_at": "2024-11-09T15:01:15.000Z"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "msg-004-001",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "3045447d-3088-43f3-914e-52e9d130119a",
+    "sender": "therapist",
+    "text": "Hola, bienvenido. Me llamo Elena. ¿Cómo te sientes hoy? We can speak in English or Spanish, whatever feels more comfortable for you.",
+    "created_at": "2024-11-04T16:00:00.000Z"
+  },
+  {
+    "id": "msg-004-002",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "3045447d-3088-43f3-914e-52e9d130119a",
+    "sender": "client",
+    "text": "English is fine, thank you. I'm struggling with my identity. I moved here from Mexico five years ago, and I feel like I'm not Mexican enough for my family or American enough here.",
+    "created_at": "2024-11-04T16:00:45.000Z"
+  },
+  {
+    "id": "msg-004-003",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "3045447d-3088-43f3-914e-52e9d130119a",
+    "sender": "therapist",
+    "text": "That sounds like a painful in-between space - the feeling of not fully belonging to either culture. This is something many immigrants experience. Can you tell me more about what 'not Mexican enough' feels like for you?",
+    "created_at": "2024-11-04T16:01:15.000Z"
+  },
+  {
+    "id": "msg-004-004",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "3045447d-3088-43f3-914e-52e9d130119a",
+    "sender": "client",
+    "text": "My Spanish isn't perfect anymore, and I don't know all the traditions. But here, people see me as 'the Mexican guy' and expect me to be an expert on everything Latin American.",
+    "created_at": "2024-11-04T16:02:00.000Z"
+  },
+  {
+    "id": "msg-004-005",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "3045447d-3088-43f3-914e-52e9d130119a",
+    "sender": "therapist",
+    "text": "Ah, the pressure to represent an entire culture - that's a heavy burden. And the fear of losing your heritage while adapting to a new one. This is a common experience in bicultural identity development. What parts of your Mexican heritage feel most important to preserve?",
+    "created_at": "2024-11-04T16:02:30.000Z"
+  },
+  {
+    "id": "msg-004-006",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "3045447d-3088-43f3-914e-52e9d130119a",
+    "sender": "client",
+    "text": "The food, definitely. And the warmth of family gatherings. But also the values - respect for elders, community.",
+    "created_at": "2024-11-04T16:03:15.000Z"
+  },
+  {
+    "id": "msg-004-007",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "3045447d-3088-43f3-914e-52e9d130119a",
+    "sender": "therapist",
+    "text": "Beautiful - those are the essence of culture. You can maintain those while creating your own blended identity. Many people find freedom in realizing they don't have to choose between cultures - they can integrate both. How does that idea land for you?",
+    "created_at": "2024-11-04T16:03:45.000Z"
+  },
+  {
+    "id": "msg-004-008",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "3045447d-3088-43f3-914e-52e9d130119a",
+    "sender": "client",
+    "text": "It feels hopeful. Maybe I can be both.",
+    "created_at": "2024-11-04T16:04:30.000Z"
+  },
+  {
+    "id": "msg-004-009",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "3045447d-3088-43f3-914e-52e9d130119a",
+    "sender": "therapist",
+    "text": "Exactly - you can be both, and that's a strength. Let's explore some practical ways to nurture both parts of your identity this week. Perhaps start with cooking a favorite Mexican dish and inviting friends from both cultures?",
+    "created_at": "2024-11-04T16:05:00.000Z"
+  }
+]

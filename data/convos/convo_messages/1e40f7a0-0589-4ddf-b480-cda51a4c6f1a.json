@@ -1,0 +1,82 @@
+[
+  {
+    "id": "msg-003-001",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "therapist",
+    "text": "Good morning. I'm Marcus. Let's start by taking a deep breath together - inhale for 4 counts, hold for 4, exhale for 4. How are you feeling right now?",
+    "created_at": "2024-11-03T09:15:00.000Z"
+  },
+  {
+    "id": "msg-003-002",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "client",
+    "text": "I'm okay, I guess. I've been really anxious lately, especially at work. My mind just won't stop racing.",
+    "created_at": "2024-11-03T09:15:45.000Z"
+  },
+  {
+    "id": "msg-003-003",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "therapist",
+    "text": "That racing mind is exhausting, isn't it? Let's notice that anxiety right now. Where do you feel it in your body?",
+    "created_at": "2024-11-03T09:16:15.000Z"
+  },
+  {
+    "id": "msg-003-004",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "client",
+    "text": "In my chest and stomach. It's like a constant tightness.",
+    "created_at": "2024-11-03T09:17:00.000Z"
+  },
+  {
+    "id": "msg-003-005",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "therapist",
+    "text": "Good awareness. Now let's try a simple exercise: Place one hand on your chest and one on your stomach. As you breathe, notice how your hands rise and fall. This is called diaphragmatic breathing - it activates your body's natural relaxation response.",
+    "created_at": "2024-11-03T09:17:30.000Z"
+  },
+  {
+    "id": "msg-003-006",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "client",
+    "text": "Okay, trying that now. It does feel a bit calmer.",
+    "created_at": "2024-11-03T09:18:15.000Z"
+  },
+  {
+    "id": "msg-003-007",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "therapist",
+    "text": "Excellent. Now, let's look at the thoughts driving this anxiety. What specific thoughts keep repeating?",
+    "created_at": "2024-11-03T09:18:45.000Z"
+  },
+  {
+    "id": "msg-003-008",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "client",
+    "text": "'What if I fail?' 'What if my boss notices I'm struggling?' 'What if I get fired?'",
+    "created_at": "2024-11-03T09:19:30.000Z"
+  },
+  {
+    "id": "msg-003-009",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "therapist",
+    "text": "These are classic 'what if' thoughts - they create anxiety because they're unanswerable in the present. Let's practice responding to them with evidence. For 'What if I fail?' - what's one piece of evidence that you won't?",
+    "created_at": "2024-11-03T09:20:00.000Z"
+  },
+  {
+    "id": "msg-003-010",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+    "sender": "therapist",
+    "text": "Practice this breathing technique for 5 minutes twice daily. It rewires your nervous system over time. We'll build more tools next session.",
+    "created_at": "2024-11-03T09:20:30.000Z"
+  }
+]

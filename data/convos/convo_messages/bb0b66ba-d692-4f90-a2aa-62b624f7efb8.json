@@ -1,0 +1,90 @@
+[
+  {
+    "id": "msg-008-001",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "therapist",
+    "text": "Hello, I'm Maya. Thank you for being here. Relationships and family dynamics are so complex - they shape us in ways we often don't see. What's bringing you in today?",
+    "created_at": "2024-11-08T10:10:00.000Z"
+  },
+  {
+    "id": "msg-008-002",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "client",
+    "text": "My mother and I can't communicate without arguing. It's been this way since I was a teenager. I want to break the pattern but I don't know how.",
+    "created_at": "2024-11-08T10:10:45.000Z"
+  },
+  {
+    "id": "msg-008-003",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "therapist",
+    "text": "Family patterns often repeat across generations. This arguing dynamic didn't start with you - it's likely a family system issue. Can you tell me about your mother's relationship with her own mother?",
+    "created_at": "2024-11-08T10:11:15.000Z"
+  },
+  {
+    "id": "msg-008-004",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "client",
+    "text": "They were always fighting too. My grandmother was critical, and my mom rebelled against her. Now my mom does the same to me.",
+    "created_at": "2024-11-08T10:12:00.000Z"
+  },
+  {
+    "id": "msg-008-005",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "therapist",
+    "text": "Ah, the classic transmission of family patterns. Your mother learned this communication style from her mother, and now it's being passed to you. But here's the good news: you can be the one who changes it. What happens when you try to respond differently to your mother's criticism?",
+    "created_at": "2024-11-08T10:12:30.000Z"
+  },
+  {
+    "id": "msg-008-006",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "client",
+    "text": "I usually get defensive and argue back. It feels automatic.",
+    "created_at": "2024-11-08T10:13:15.000Z"
+  },
+  {
+    "id": "msg-008-007",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "therapist",
+    "text": "That's the pattern in action. Let's think about this systemically: your defensiveness might actually be maintaining the connection, even if it's negative. Sometimes family members unconsciously recreate conflict because it's familiar. What would a healthier pattern look like for you?",
+    "created_at": "2024-11-08T10:13:45.000Z"
+  },
+  {
+    "id": "msg-008-008",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "client",
+    "text": "Setting boundaries and not engaging in the arguments. But I'm scared she'll feel rejected.",
+    "created_at": "2024-11-08T10:14:30.000Z"
+  },
+  {
+    "id": "msg-008-009",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "therapist",
+    "text": "That fear makes sense - changing patterns feels risky. But boundaries create healthier relationships. Let's try a both/and approach: you can love your mother while not accepting unhealthy communication. Try this: 'Mom, I love you and I want us to get along. When you criticize me, it hurts. Can we talk about this differently?'",
+    "created_at": "2024-11-08T10:15:00.000Z"
+  },
+  {
+    "id": "msg-008-010",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "client",
+    "text": "That sounds compassionate but firm. I could try that.",
+    "created_at": "2024-11-08T10:15:45.000Z"
+  },
+  {
+    "id": "msg-008-011",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+    "sender": "therapist",
+    "text": "Perfect. You're not just changing your behavior - you're changing the entire family system. That's powerful work. Let's track how this lands with your mother and adjust from there.",
+    "created_at": "2024-11-08T10:16:15.000Z"
+  }
+]

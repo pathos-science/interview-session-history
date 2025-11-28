@@ -1,0 +1,228 @@
+{
+  "static_therapists": [
+    {
+      "id": "recu75RjDJawfqVkU",
+      "name": "Jay",
+      "headshot": {
+        "id": "recTzr9461zo34KcC",
+        "name": "therapist_headshot_2024_10_23_jay",
+        "created_at": "2024-10-23T18:26:53.000Z",
+        "updated_at": "2024-10-23T18:40:50.000Z",
+        "assets": [
+          {
+            "id": "f2a00456b8dee5ec1afcd7f2254a5afd",
+            "content_type": "image/jpeg",
+            "file_extension": "jpg",
+            "size": 61743,
+            "created_at": "2024-10-23T18:26:55.465Z",
+            "updated_at": "2024-10-23T18:26:55.465Z",
+            "metadata": {
+              "width": 800,
+              "height": 800,
+              "metadata_type": "image"
+            },
+            "category": "image",
+            "url": "https://assets.getmental.com/f2a00456b8dee5ec1afcd7f2254a5afd.jpg",
+            "is_parent": true,
+            "selection_rules": {
+              "id": "f2a00456b8dee5ec1afcd7f2254a5afd",
+              "platforms": [
+                "ios",
+                "android"
+              ]
+            }
+          }
+        ]
+      },
+      "bio": "Jay holds you accountable. No BS and a focus on results to help you push past excuses and achieve your goals. Bring something difficult, challenging, or uncomfortable, and he'll help you embrace it, because that's where the growth is. Jay's not about complaining, he's about fixing and achieving.",
+      "color": "#C52321",
+      "index": 1,
+      "created_at": "2024-10-22T20:26:23.000Z",
+      "updated_at": "2025-08-23T00:19:04.000Z",
+      "characteristics": [
+        "Direct",
+        "Assertive"
+      ]
+    },
+    {
+      "id": "recqFi7pnve3YEMGS",
+      "name": "Ty",
+      "headshot": {
+        "id": "recPigwodhknwq71t",
+        "name": "therapist_headshot_2024_10_23_ty",
+        "created_at": "2024-10-23T18:26:54.000Z",
+        "updated_at": "2024-10-23T18:40:51.000Z",
+        "assets": [
+          {
+            "id": "6756d457d78ac72936eb77fcb2a631bf",
+            "content_type": "image/jpeg",
+            "file_extension": "jpg",
+            "size": 77564,
+            "created_at": "2024-10-23T18:26:56.143Z",
+            "updated_at": "2024-10-23T18:26:56.143Z",
+            "metadata": {
+              "width": 800,
+              "height": 800,
+              "metadata_type": "image"
+            },
+            "category": "image",
+            "url": "https://assets.getmental.com/6756d457d78ac72936eb77fcb2a631bf.jpg",
+            "is_parent": true,
+            "selection_rules": {
+              "id": "6756d457d78ac72936eb77fcb2a631bf",
+              "platforms": [
+                "ios",
+                "android"
+              ]
+            }
+          }
+        ]
+      },
+      "bio": "Ty is your biggest champion. He'll make you feel like a superhero, even on your worst days. Scared to try something? Ty will help you break it down, then take that first step. He's all about building you up, instilling confidence, and turning your challenges into opportunities.",
+      "color": "#2261DC",
+      "index": 2,
+      "created_at": "2024-10-22T20:26:23.000Z",
+      "updated_at": "2025-08-23T00:19:01.000Z",
+      "characteristics": [
+        "Empowering",
+        "Motivational"
+      ]
+    },
+    {
+      "id": "recBcwylBWip1ZzMi",
+      "name": "Vivian",
+      "headshot": {
+        "id": "recinqaOyD5YcHeK8",
+        "name": "therapist_headshot_2024_10_23_vivian",
+        "created_at": "2024-10-23T18:26:53.000Z",
+        "updated_at": "2024-10-23T18:40:52.000Z",
+        "assets": [
+          {
+            "id": "41d3c04c359f199789b07975dd8c2bc2",
+            "content_type": "image/jpeg",
+            "file_extension": "jpg",
+            "size": 55941,
+            "created_at": "2024-10-23T18:26:55.570Z",
+            "updated_at": "2024-10-23T18:26:55.570Z",
+            "metadata": {
+              "width": 800,
+              "height": 800,
+              "metadata_type": "image"
+            },
+            "category": "image",
+            "url": "https://assets.getmental.com/41d3c04c359f199789b07975dd8c2bc2.jpg",
+            "is_parent": true,
+            "selection_rules": {
+              "id": "41d3c04c359f199789b07975dd8c2bc2",
+              "platforms": [
+                "ios",
+                "android"
+              ]
+            }
+          }
+        ]
+      },
+      "bio": "Vivian is like a cozy blanket of compassion. Need to feel vulnerable but nowhere to turn? Viv's always here to support you, and always without judgment. She's about emotional exploration, to help you get to root causes of what's going on.",
+      "color": "#79C3D1",
+      "index": 4,
+      "created_at": "2024-10-22T20:28:05.000Z",
+      "updated_at": "2025-08-23T00:19:01.000Z",
+      "characteristics": [
+        "Nurturing",
+        "Empathetic"
+      ]
+    }
+  ],
+  "convos": [
+    {
+      "id": "0717fc40-57a5-4851-a338-1444baf8bb51",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recu75RjDJawfqVkU",
+      "created_at": "2025-10-01T10:00:00.000Z",
+      "base_duration": 900,
+      "extra_duration": 300,
+      "completed_at": "2025-10-01T10:15:00.000Z"
+    },
+    {
+      "id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recu75RjDJawfqVkU",
+      "created_at": "2025-10-02T14:30:00.000Z",
+      "base_duration": 900,
+      "extra_duration": 600,
+      "completed_at": "2025-10-02T14:45:00.000Z"
+    },
+    {
+      "id": "1e40f7a0-0589-4ddf-b480-cda51a4c6f1a",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recu75RjDJawfqVkU",
+      "created_at": "2025-10-03T09:15:00.000Z",
+      "base_duration": 900,
+      "extra_duration": 0,
+      "completed_at": "2025-10-03T09:30:00.000Z"
+    },
+    {
+      "id": "3045447d-3088-43f3-914e-52e9d130119a",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recu75RjDJawfqVkU",
+      "created_at": "2025-10-04T16:00:00.000Z",
+      "base_duration": 900,
+      "extra_duration": 0,
+      "completed_at": "2025-10-04T16:15:00.000Z"
+    },
+    {
+      "id": "f2d9e2e8-2be8-48bf-9556-796d2b0c0283",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recqFi7pnve3YEMGS",
+      "created_at": "2025-10-05T11:30:00.000Z",
+      "base_duration": 900,
+      "extra_duration": 300,
+      "completed_at": "2025-10-05T11:45:00.000Z"
+    },
+    {
+      "id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recqFi7pnve3YEMGS",
+      "created_at": "2025-10-06T13:45:00.000Z",
+      "base_duration": 900,
+      "extra_duration": 0,
+      "completed_at": "2025-10-06T14:00:00.000Z"
+    },
+    {
+      "id": "d1842031-b9af-4ef0-8fcb-572238b557be",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recqFi7pnve3YEMGS",
+      "created_at": "2025-10-07T15:20:00.000Z",
+      "base_duration": 1800,
+      "extra_duration": 600,
+      "completed_at": "2025-10-07T15:35:00.000Z"
+    },
+    {
+      "id": "bb0b66ba-d692-4f90-a2aa-62b624f7efb8",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recBcwylBWip1ZzMi",
+      "created_at": "2025-10-08T10:10:00.000Z",
+      "base_duration": 900,
+      "extra_duration": 0,
+      "completed_at": "2025-10-08T10:25:00.000Z"
+    },
+    {
+      "id": "76af99a5-3fa5-4a58-a490-7bd110c020be",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recBcwylBWip1ZzMi",
+      "created_at": "2025-10-09T14:55:00.000Z",
+      "base_duration": 900,
+      "extra_duration": 0,
+      "completed_at": "2025-10-09T15:10:00.000Z"
+    },
+    {
+      "id": "2cf66906-44a4-46df-85b7-5998c64db361",
+      "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+      "therapist_id": "recBcwylBWip1ZzMi",
+      "created_at": "2025-10-10T12:40:00.000Z",
+      "base_duration": 900,
+      "extra_duration": 0,
+      "completed_at": "2025-10-10T12:55:00.000Z"
+    }
+  ]
+}

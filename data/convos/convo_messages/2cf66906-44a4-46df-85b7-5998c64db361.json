@@ -1,0 +1,90 @@
+[
+  {
+    "id": "msg-010-001",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "therapist",
+    "text": "Hello! I'm Riley. I'm so glad you're here. I specialize in working with LGBTQ+ folks and anyone exploring their identity. This is a safe, affirming space. What's bringing you in today?",
+    "created_at": "2024-11-10T12:40:00.000Z"
+  },
+  {
+    "id": "msg-010-002",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "client",
+    "text": "I'm questioning my gender. I think I might be non-binary, but I'm scared to tell anyone. My family is very traditional.",
+    "created_at": "2024-11-10T12:40:45.000Z"
+  },
+  {
+    "id": "msg-010-003",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "therapist",
+    "text": "First, thank you for trusting me with this. Questioning your gender is brave and valid - there's no 'right' timeline for self-discovery. What pronouns feel most comfortable for you right now?",
+    "created_at": "2024-11-10T12:41:15.000Z"
+  },
+  {
+    "id": "msg-010-004",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "client",
+    "text": "They/them, I think. I've been trying them out in my journal.",
+    "created_at": "2024-11-10T12:42:00.000Z"
+  },
+  {
+    "id": "msg-010-005",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "therapist",
+    "text": "Wonderful! I'll use they/them for you. That's a great first step - exploring in private before sharing. Many people find journaling really helpful for gender exploration. What have you noticed about your gender feelings so far?",
+    "created_at": "2024-11-10T12:42:30.000Z"
+  },
+  {
+    "id": "msg-010-006",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "client",
+    "text": "That I don't feel connected to being a woman, but I'm not sure I feel like a man either. More like... fluid?",
+    "created_at": "2024-11-10T12:43:15.000Z"
+  },
+  {
+    "id": "msg-010-007",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "therapist",
+    "text": "That fluidity sounds beautiful and authentic to you. Gender can be a spectrum, not a binary. There's no rush to label it perfectly. The fear of telling your family is real - many LGBTQ+ people face rejection. But connection with your authentic self is worth it. What support do you have outside your family?",
+    "created_at": "2024-11-10T12:43:45.000Z"
+  },
+  {
+    "id": "msg-010-008",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "client",
+    "text": "A few online communities. And one friend who I think might be accepting.",
+    "created_at": "2024-11-10T12:44:30.000Z"
+  },
+  {
+    "id": "msg-010-009",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "therapist",
+    "text": "That's a great foundation. Let's build from there. Coming out is a process, not an event. You could start by sharing with your accepting friend as a practice run. And remember: Your family's reaction is about them, not your validity. You are exactly who you're meant to be.",
+    "created_at": "2024-11-10T12:45:00.000Z"
+  },
+  {
+    "id": "msg-010-010",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "client",
+    "text": "That helps. I feel less alone already.",
+    "created_at": "2024-11-10T12:45:45.000Z"
+  },
+  {
+    "id": "msg-010-011",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "2cf66906-44a4-46df-85b7-5998c64db361",
+    "sender": "therapist",
+    "text": "You never were alone - the LGBTQ+ community has your back. Let's create a safety plan for coming out when you're ready. And in the meantime, keep exploring who you are. That's the most important work.",
+    "created_at": "2024-11-10T12:46:15.000Z"
+  }
+]

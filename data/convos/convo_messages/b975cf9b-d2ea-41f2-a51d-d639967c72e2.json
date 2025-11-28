@@ -1,0 +1,74 @@
+[
+  {
+    "id": "msg-jay-002-001",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+    "sender": "therapist",
+    "text": "What's the issue we're tackling today?",
+    "created_at": "2024-11-02T14:30:00.000Z"
+  },
+  {
+    "id": "msg-jay-002-002",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+    "sender": "client",
+    "text": "I'm procrastinating on everything. I know what I need to do but I just can't get started. It's affecting my work and my life.",
+    "created_at": "2024-11-02T14:30:30.000Z"
+  },
+  {
+    "id": "msg-jay-002-003",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+    "sender": "therapist",
+    "text": "Procrastination is a choice. You're choosing comfort over progress. What's the smallest step you could take right now?",
+    "created_at": "2024-11-02T14:31:00.000Z"
+  },
+  {
+    "id": "msg-jay-002-004",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+    "sender": "client",
+    "text": "Like opening my laptop? But then I'll just scroll social media instead.",
+    "created_at": "2024-11-02T14:31:45.000Z"
+  },
+  {
+    "id": "msg-jay-002-005",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+    "sender": "therapist",
+    "text": "That's the problem - you're letting distractions win. Set a 5-minute timer. No social media. Just work. The momentum will carry you.",
+    "created_at": "2024-11-02T14:32:15.000Z"
+  },
+  {
+    "id": "msg-jay-002-006",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+    "sender": "client",
+    "text": "I always feel overwhelmed when I try to start.",
+    "created_at": "2024-11-02T14:33:00.000Z"
+  },
+  {
+    "id": "msg-jay-002-007",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+    "sender": "therapist",
+    "text": "Overwhelm is an excuse. Break it down. What exactly are you avoiding? Name the first 3 things on your list.",
+    "created_at": "2024-11-02T14:33:30.000Z"
+  },
+  {
+    "id": "msg-jay-002-008",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+    "sender": "client",
+    "text": "Email my boss about the project, schedule a meeting, and update the spreadsheet.",
+    "created_at": "2024-11-02T14:34:15.000Z"
+  },
+  {
+    "id": "msg-jay-002-009",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "b975cf9b-d2ea-41f2-a51d-d639967c72e2",
+    "sender": "therapist",
+    "text": "Perfect. Now do the first one. Right now. I'll wait.",
+    "created_at": "2024-11-02T14:34:45.000Z"
+  }
+]

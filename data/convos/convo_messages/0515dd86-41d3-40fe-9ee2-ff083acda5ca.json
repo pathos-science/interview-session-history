@@ -1,0 +1,90 @@
+[
+  {
+    "id": "msg-006-001",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "therapist",
+    "text": "Hello. I'm Lisa. Welcome. There's no rush here. Take a moment to settle in. When you're ready, I'd love to hear what's bringing you here.",
+    "created_at": "2024-11-06T13:45:00.000Z"
+  },
+  {
+    "id": "msg-006-002",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "client",
+    "text": "I had a really bad experience last year - someone I trusted betrayed me. I thought I was over it, but it keeps coming up in my dreams.",
+    "created_at": "2024-11-06T13:46:00.000Z"
+  },
+  {
+    "id": "msg-006-003",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "therapist",
+    "text": "Thank you for trusting me with this. Betrayal wounds deeply - they shake our foundation of trust in others and ourselves. Dreams often process what we can't during the day. How do you feel when you wake from these dreams?",
+    "created_at": "2024-11-06T13:46:45.000Z"
+  },
+  {
+    "id": "msg-006-004",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "client",
+    "text": "Scared and alone. Like it happened yesterday.",
+    "created_at": "2024-11-06T13:47:30.000Z"
+  },
+  {
+    "id": "msg-006-005",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "therapist",
+    "text": "That makes sense - trauma lives in the body as much as the mind. Let's try a gentle grounding exercise. Can you place your feet flat on the floor and notice the solidness beneath you? This is called 'resourcing' - building a sense of safety in the present moment.",
+    "created_at": "2024-11-06T13:48:00.000Z"
+  },
+  {
+    "id": "msg-006-006",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "client",
+    "text": "Okay... I feel more stable now.",
+    "created_at": "2024-11-06T13:49:00.000Z"
+  },
+  {
+    "id": "msg-006-007",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "therapist",
+    "text": "Good. Your body knows how to find safety. Trauma responses are adaptive - they kept you safe then. But they don't serve us when the danger has passed. What coping strategies have you found helpful?",
+    "created_at": "2024-11-06T13:49:30.000Z"
+  },
+  {
+    "id": "msg-006-008",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "client",
+    "text": "Walking helps sometimes. And talking to friends.",
+    "created_at": "2024-11-06T13:50:15.000Z"
+  },
+  {
+    "id": "msg-006-009",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "therapist",
+    "text": "Those are wonderful resources. Movement and connection are powerful healers. Let's build on that. Would you be open to trying a simple somatic exercise before bed? It might help with the dreams.",
+    "created_at": "2024-11-06T13:50:45.000Z"
+  },
+  {
+    "id": "msg-006-010",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "client",
+    "text": "I think so. What would that involve?",
+    "created_at": "2024-11-06T13:51:30.000Z"
+  },
+  {
+    "id": "msg-006-011",
+    "user_id": "071f00d1-39db-4397-a438-ed04f54a5f0f",
+    "convo_id": "0515dd86-41d3-40fe-9ee2-ff083acda5ca",
+    "sender": "therapist",
+    "text": "Just gentle touch - placing your hand on your heart and saying 'I am safe now.' We'll go slowly, at your pace. Healing happens in these small, compassionate moments.",
+    "created_at": "2024-11-06T13:52:00.000Z"
+  }
+]
